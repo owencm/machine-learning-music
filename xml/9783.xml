@@ -1,0 +1,30 @@
+<super>
+  <meta>
+    <artist/>
+    <title>Bangarang</title>
+    <beats_in_measure>4</beats_in_measure>
+    <BPM>128</BPM>
+    <key>G</key>
+    <YouTubeID>cR2XilcGYOo</YouTubeID>
+    <mode>6</mode>
+    <sections>
+      <_Section>
+        <global_start>25.48</global_start>
+        <section_duration>11.05</section_duration>
+        <active_start>1.11</active_start>
+        <active_stop>9.94</active_stop>
+      </_Section>
+    </sections>
+  </meta>
+  <sections>
+    <_Section>
+      <segment>
+        <instrument/>
+        <rhythm/>
+        <notes/>
+        <chords/>
+        <numMeasures>8</numMeasures>
+      </segment>
+    </_Section>
+  </sections>
+</super>
